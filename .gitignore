@@ -130,3 +130,4 @@ bin/
 /.factorypath
 /.project
 /.settings/
+/.checkstyle
